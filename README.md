@@ -1,0 +1,1 @@
+# FunCaptcha-Solver-Playwright-Python-
